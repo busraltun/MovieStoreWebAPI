@@ -1,0 +1,13 @@
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Core\bin\Debug\netcoreapp3.1\MovieStore.Core.deps.json
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Core\bin\Debug\netcoreapp3.1\MovieStore.Core.dll
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Core\bin\Debug\netcoreapp3.1\MovieStore.Core.pdb
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Core\bin\Debug\netcoreapp3.1\MovieStore.Entity.dll
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Core\bin\Debug\netcoreapp3.1\MovieStore.Entity.pdb
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Core\obj\Debug\netcoreapp3.1\MovieStore.Core.csproj.AssemblyReference.cache
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Core\obj\Debug\netcoreapp3.1\MovieStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Core\obj\Debug\netcoreapp3.1\MovieStore.Core.AssemblyInfoInputs.cache
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Core\obj\Debug\netcoreapp3.1\MovieStore.Core.AssemblyInfo.cs
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Core\obj\Debug\netcoreapp3.1\MovieStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Core\obj\Debug\netcoreapp3.1\MovieStore.Core.csproj.CopyComplete
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Core\obj\Debug\netcoreapp3.1\MovieStore.Core.dll
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Core\obj\Debug\netcoreapp3.1\MovieStore.Core.pdb

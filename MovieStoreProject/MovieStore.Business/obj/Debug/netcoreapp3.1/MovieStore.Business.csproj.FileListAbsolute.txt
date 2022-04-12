@@ -1,0 +1,17 @@
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Business\bin\Debug\netcoreapp3.1\MovieStore.Business.deps.json
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Business\bin\Debug\netcoreapp3.1\MovieStore.Business.dll
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Business\bin\Debug\netcoreapp3.1\MovieStore.Business.pdb
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Business\bin\Debug\netcoreapp3.1\MovieStore.Core.dll
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Business\bin\Debug\netcoreapp3.1\MovieStore.Data.dll
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Business\bin\Debug\netcoreapp3.1\MovieStore.Entity.dll
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Business\bin\Debug\netcoreapp3.1\MovieStore.Core.pdb
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Business\bin\Debug\netcoreapp3.1\MovieStore.Data.pdb
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Business\bin\Debug\netcoreapp3.1\MovieStore.Entity.pdb
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Business\obj\Debug\netcoreapp3.1\MovieStore.Business.csproj.AssemblyReference.cache
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Business\obj\Debug\netcoreapp3.1\MovieStore.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Business\obj\Debug\netcoreapp3.1\MovieStore.Business.AssemblyInfoInputs.cache
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Business\obj\Debug\netcoreapp3.1\MovieStore.Business.AssemblyInfo.cs
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Business\obj\Debug\netcoreapp3.1\MovieStore.Business.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Business\obj\Debug\netcoreapp3.1\MovieStore.Business.csproj.CopyComplete
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Business\obj\Debug\netcoreapp3.1\MovieStore.Business.dll
+C:\Users\busra\source\repos\MovieStoreProject\MovieStore.Business\obj\Debug\netcoreapp3.1\MovieStore.Business.pdb

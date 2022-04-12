@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="10.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MovieStore.Core\MovieStore.Core.csproj" />
+    <ProjectReference Include="..\MovieStore.Data\MovieStore.Data.csproj" />
+    <ProjectReference Include="..\MovieStore.Entity\MovieStore.Entity.csproj" />
+  </ItemGroup>
+
+</Project>
